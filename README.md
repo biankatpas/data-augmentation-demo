@@ -66,6 +66,14 @@ To install missing packages in Colab, run:
 
 ---
 
+## Demo Video
+
+A recording of this notebook in action is available on YouTube. Watch it here:
+
+[Data Augmentation in Colab: Testing with Image Examples](https://youtu.be/id)
+
+---
+
 ## References
 - [Keras ImageDataGenerator Documentation](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
 - [Colab Quickstart Guide](https://colab.research.google.com/notebooks/intro.ipynb)
