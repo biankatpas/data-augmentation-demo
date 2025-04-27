@@ -70,7 +70,7 @@ To install missing packages in Colab, run:
 
 A recording of this notebook in action is available on YouTube. Watch it here:
 
-[Data Augmentation in Colab: Testing with Image Examples](https://youtu.be/id)
+[Data Augmentation in Colab: Testing with Image Examples](https://youtu.be/Rh09oygXsxI)
 
 ---
 
